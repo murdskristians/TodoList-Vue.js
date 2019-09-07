@@ -27,3 +27,6 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Site:
+## https://practical-shannon-5f67fd.netlify.com
