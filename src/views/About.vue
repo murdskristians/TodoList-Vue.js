@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <h1>This is made by Kristians Murds for training purposes</h1>
-    <img  class="center" src="..\assets\logo.png" alt="Vue.js">
+    <img  class="center" src="../assets/logo.png" alt="Vue.js">
   </div>
 </template>
 
